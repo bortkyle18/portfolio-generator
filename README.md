@@ -12,7 +12,7 @@ After installing the required npm packages using ``npm install``, use the comman
 ## Tools Used
 
 - Node.js
-- Express.js
+- Inquirer
 - Javascript
 
 ## Questions
