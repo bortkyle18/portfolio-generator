@@ -6,7 +6,7 @@ A Node.js application to create a professional portfolio page with an about me a
 
 ## Usage
 
-After installing the required npm packages using ``npm install``, use the command line to navigate to the root of the application and run ``node run``. Follow prompts to enter project information. The generated portfolio page will be created in the ./dist folder.
+After installing the required npm packages using ``npm install``, use the command line to navigate to the root of the application and run ``node app``. Follow prompts to enter project information. The generated portfolio page will be created in the ./dist folder.
 
 
 ## Tools Used
